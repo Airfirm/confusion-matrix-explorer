@@ -1,13 +1,15 @@
+# PKG INFO
+
 Metadata-Version: 2.4
 Name: confusion-matrix-explorer
 Version: 0.0.2.dev11
 Summary: Interactive tools for exploring confusion matrices and threshold effects
 Author-email: Denise Case <dcase@nwmissouri.edu>
 License-Expression: MIT
-Project-URL: Documentation, https://denisecase.github.io/confusion-matrix-explorer/latest
-Project-URL: Homepage, https://github.com/denisecase/confusion-matrix-explorer
-Project-URL: Issues, https://github.com/denisecase/confusion-matrix-explorer/issues
-Project-URL: Source, https://github.com/denisecase/confusion-matrix-explorer
+Project-URL: Documentation, [https://denisecase.github.io/confusion-matrix-explorer/latest]
+Project-URL: Homepage, [https://github.com/denisecase/confusion-matrix-explorer]
+Project-URL: Issues, [https://github.com/denisecase/confusion-matrix-explorer/issues]
+Project-URL: Source, [https://github.com/denisecase/confusion-matrix-explorer]
 Keywords: statistics,confusion-matrix,diagnostic-tests,teaching,visualization,machine-learning
 Classifier: Development Status :: 5 - Production/Stable
 Classifier: Intended Audience :: Developers
@@ -48,7 +50,7 @@ Requires-Dist: ruff; extra == "docs"
 Requires-Dist: shinylive; extra == "docs"
 Dynamic: license-file
 
-# Confusion Matrix Explorer (PyShiny App)
+## Confusion Matrix Explorer (PyShiny App)
 
 [![Docs](https://img.shields.io/badge/docs-latest-brightgreen.svg)](https://denisecase.github.io/confusion-matrix-explorer/)
 [![CI](https://github.com/denisecase/confusion-matrix-explorer/actions/workflows/ci.yml/badge.svg)](https://github.com/denisecase/confusion-matrix-explorer/actions/workflows/ci.yml)
@@ -62,7 +64,6 @@ Dynamic: license-file
 Click here: [**Launch the Confusion Matrix Explorer**](https://denisecase.github.io/confusion-matrix-explorer/app/)
 
 The app runs in your browser using **Shinylive** (Pyodide), no installation needed.
-
 
 ## About the App
 
