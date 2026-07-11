@@ -112,6 +112,8 @@ src/confusion_matrix_explorer.egg-info/PKG-INFO
 src/confusion_matrix_explorer.egg-info/SOURCES.txt
 src/confusion_matrix_explorer.egg-info/dependency_links.txt
 src/confusion_matrix_explorer.egg-info/requires.txt
+src/confusion_matrix_explorer.egg-info/scm_file_list.json
+src/confusion_matrix_explorer.egg-info/scm_version.json
 src/confusion_matrix_explorer.egg-info/top_level.txt
 src/confusion_matrix_explorer/__pycache__/__init__.cpython-312.pyc
 src/confusion_matrix_explorer/__pycache__/utils_confusion.cpython-312.pyc
